@@ -40,5 +40,5 @@ None of the listed technologies of Chara will be available for usage or download
 
 <h6>
 * = The restriction may be disregarded if the project's XPH & PGP key aswell as all parties involved (Chara Moderator or higher and Author) arrive to a formal agreement which falls under the Chara Publishing T&C, which specifies that monetary compensation, threats or blackmail, from and to all parties involved cannot be grounds for an agreement.</br></br>
-** = SEFRAM has been made open-source on Chara, authorised members are allowed to view, download and edit the code as they which, however, thus cannot be published freely unless a CPSPA (Chara-Protected Software Publishing Agreement) has been signed and is included in the released source code. A CPSPA only allows source code to be published, no builds shall be produced as it would be categorised as Content Extraction.
+** = SEFRAM has been made open-source on Chara, authorised members are allowed to view, download and edit the code as they which, however, thus cannot be published freely unless a CPSPA (Chara-Protected Software Publishing Agreement) has been signed and is included in the released source code. A CPSPA only allows source code to be published, no builds shall be produced as it would be categorised as Content Extraction.</br></br>Document Version: v1.0 - Yara.ch
 </h6>
