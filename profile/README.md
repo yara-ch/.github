@@ -22,7 +22,7 @@ Yara.ch is a subset of Chara. The goal with Yara.ch is for people to start getti
 
 Note: **Moppu Chapelin currently is not involved with Yara.ch** but might in the future.</br>**If you have a problem regarding Yara-published softwares, please contact <a href="https://github.com/miso-xyz">miso-xyz</a> instead or create an issue in the Issues tab.**
 
-## Legallity - Chara
+## Legality - Chara
 
 No software will be released under the Yara.ch branding which indulges in
 - Breach of DRM
