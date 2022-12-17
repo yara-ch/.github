@@ -1,8 +1,6 @@
 # Yara.ch - Small & Simple Reverse-Engineering Utilities
 Yara.ch simplifies Reverse-Engineers by taking on the boring & complex tasks that obfuscators put in the way. It is meant to be an ever-growing collection of small, light and fast utilities.
 
-<h4>If desired, a manager is available <a href="">here</a> for Yara.ch softwares. Keeping your downloaded utilities up-to-date.
-
 ## Information about Published Software
 Each & every application released under the Yara.ch branding should be
 - User-friendly
