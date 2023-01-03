@@ -16,6 +16,8 @@ Yara.ch is a subset of Chara. The goal with Yara.ch is for people to start getti
 
 ### Members
 - <a href="https://github.com/miso-xyz">miso-xyz</a> - Director of Yara.ch
+
+### Outsiders
 - Moppu Chapelin - Owner of Chara
 
 Note: **Moppu Chapelin currently is not involved with Yara.ch** but might in the future.</br>**If you have a problem regarding Yara-published softwares, please contact <a href="https://github.com/miso-xyz">miso-xyz</a> instead or create an issue in the Issues tab.**
