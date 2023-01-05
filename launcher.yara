@@ -6,4 +6,4 @@ ICON=
 
 [Apps]
 SMC=
-SDI=
+SDI=https://raw.githubusercontent.com/yara-ch/SDI/main/app.yara
